@@ -9,7 +9,6 @@ In my free time I like to work on side projects like my personal website [noobit
 ## 📈 My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=cmxl&show_icons=true&theme=dark&locale=en)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cmxl&theme=dark)
 
 ## 📊 Most Used Languages
 
